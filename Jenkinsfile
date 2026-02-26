@@ -3,7 +3,7 @@ pipeline {
 
     environment {
         SERVER_IP      = '172.31.4.216'
-        SSH_CREDENTIAL = 'gym-key'
+        SSH_CREDENTIAL = 'Gym-key'
         REPO_URL       = 'https://github.com/Uzairm21/gym-static-website.git'
         BRANCH         = 'main'
         REMOTE_USER    = 'ubuntu'
